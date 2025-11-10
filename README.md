@@ -16,8 +16,10 @@ This is a template I use for simple message and notification workflows. Like, so
 
 # Formatted Email Template:
 
-![simple email template](support/001.png)
+![001](support/001.png)
 Desktop
 
-<center><img src="support/002.png" alt="simple email template" style="zoom:50%;" /></center>
+
+<center><img src="support/002.png" alt="001" style="zoom:100%;" /></center>
+
 Mobile
